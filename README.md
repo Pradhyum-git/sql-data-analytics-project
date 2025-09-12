@@ -21,5 +21,5 @@ This star schema design optimizes query performance and provides a foundation fo
 - Generate sales performance insights and trends
 - Provide actionable business intelligence reports
 
-## 📁 Project Structure
+
 
